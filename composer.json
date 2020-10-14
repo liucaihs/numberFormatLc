@@ -1,0 +1,20 @@
+{
+    "name": "number-format-lc/number-format-lc",
+    "description": "一个处理数字的包",
+    "authors": [
+        {
+            "name": "liucaihs",
+            "email": "1207204940@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "numberFormatLc\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
